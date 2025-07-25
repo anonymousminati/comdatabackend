@@ -1,0 +1,6 @@
+{
+  "firstName": "Test",
+  "lastName": "Applicant", 
+  "email": "test@example.com",
+  "message": "This is a test application message for debugging the application form submission endpoint. I am very interested in working with your company."
+}
